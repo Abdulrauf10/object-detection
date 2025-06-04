@@ -1,5 +1,6 @@
 # 🎯 Real-Time Object Detection with TensorFlow.js
-## 🚀 Live Demo: object-detection-flame.vercel.app
+## 🚀 Live Demo
+Try it here: https://object-detection-flame.vercel.app
 
 A lightweight, browser-based object detection app using your webcam and the power of TensorFlow.js. Built with Next, powered by real-time machine learning.
 
