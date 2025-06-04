@@ -25,6 +25,9 @@ All powered by TensorFlow.js running 100% client-side.
 
 ## 📦 Getting Started (Local Development)
 git clone git@github.com:Abdulrauf10/object-detection.git
+
 cd object-detection
+
 npm install
+
 npm run dev
